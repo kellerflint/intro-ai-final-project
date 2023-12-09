@@ -1,2 +1,2 @@
 # Intro-AI-Final-Project
-By Keller Flitn-Blanchard, Vanessa Dyan Laxamana, and Nicholas Short
+By Keller Flint-Blanchard, Vanessa Dyan Laxamana, and Nicholas Short
